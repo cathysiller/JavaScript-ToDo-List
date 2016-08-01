@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+body {
+    font-size: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.todoForm {
+    font-size: 1.5em;
+    color: #ffffff;
+    background-color: #258514;
+    padding: .5em;
+    margin: 0;
+}
+.todoForm input {
+    font-size: .825em;
+    padding: .125em .325em;
+    margin: 0 .125em;
+    border: 1px solid #212121;
+}
+.todoForm input[type="button"] {
+    background-color: #ffd6e4;
+}
+.todoForm input[type="button"]:hover, .todoForm input[type="button"]:active, .todoForm input[type="button"]:focus {
+    color: #ffffff;
+    background-color: #ff3d7e;
+}
+.todo {
+    font-size: 1.125em;
+    font-weight: 400;
+    text-align: left;
+    color: #786871;
+    background-color: #ffffff;
+    border: .0625em solid #00B3B3;
+    padding: 1em;
+    margin: 1em auto;
+}
+.todo-title {
+    font-weight: 700;
+    font-size: 2.5em;
+    color: #666666;
+    margin: 0;
+}
+.todo ol {
+    font-size: 2em;
+}
