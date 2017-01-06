@@ -1,1 +1,1 @@
-# To Do List made with (sexy) vanilla JavaScript
+# To Do List Coded in Vanilla JavaScript
